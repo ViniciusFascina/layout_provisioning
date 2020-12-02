@@ -40,8 +40,8 @@ textarea {
     width: 900px;
     height: 500px;
     border-radius: 10px;
-    border-width: 1px;
-    box-shadow: 3px 3px 3px grey;
+    border-width: 0;
+    box-shadow: 0 50px 10px -45px silver;
 }
 
 #idProvisioning {
@@ -49,8 +49,8 @@ textarea {
     padding-left: 5px;
     height: 40px;
     border-radius: 5px;
-    border-width: 1px;
-    box-shadow: 3px 3px 3px grey;
+    border-width: 0;
+    box-shadow: 3px 15px 8px -10px silver;
 }
 
 #label_name {
